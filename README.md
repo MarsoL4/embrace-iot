@@ -83,8 +83,6 @@ MQTT in → JSON → [Debug, Dashboard Gauges e Texts]
 
 ├── flow_node_red.json → Fluxo exportado do Node-RED
 
-└── /images → Imagens do circuito e dashboard
-
 
 ▶️ **Instruções de Execução**
 
