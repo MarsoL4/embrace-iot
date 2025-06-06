@@ -101,7 +101,9 @@ Importe o flow_node_red.json no editor
 
 Acesse o painel: http://localhost:1880/ui
 
-Visualize as leituras e o status de alerta em tempo real
+Visualize as leituras e o status de alerta em tempo real:
+
+![image](https://github.com/user-attachments/assets/b0121f56-fa4a-44bc-8dca-269e8e5f5d1a)
 
 🧪 **Testes**
 
@@ -113,7 +115,9 @@ Você pode testar diferentes cenários:
 
 🎥 **Demonstração em Vídeo**
 
-📺 Link do vídeo: 
+📺 Link do vídeo:
+
+---
 
 👨‍💻 **Integrantes**
 
