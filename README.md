@@ -75,14 +75,16 @@ MQTT in → JSON → [Debug, Dashboard Gauges e Texts]
 
 📁 **Estrutura do Projeto**
 
-├── sketch.ino → Código principal do ESP32
-
-├── diagram.json → Arquivo do circuito no Wokwi
-
-├── libraries.txt → Lista de bibliotecas utilizadas
-
-├── flow_node_red.json → Fluxo exportado do Node-RED
-
+```
+/
+├── circuit/
+│   ├── sketch.ino → Código principal do ESP32
+│   ├── diagram.json → Arquivo do circuito no Wokwi
+│   └── libraries.txt → Lista de bibliotecas utilizadas
+├── node-red/
+│   └── flow_node-red.json → Fluxo exportado do Node-RED
+├── README.md → Documentação do projeto
+```
 
 ▶️ **Instruções de Execução**
 
