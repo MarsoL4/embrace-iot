@@ -1,8 +1,10 @@
 # Embrace IoT — Monitoramento de Condições Climáticas de Risco
 
-Este projeto faz parte da solução Embrace, voltada à detecção de condições climáticas que oferecem risco à população em áreas urbanas. A integração IoT permite a coleta, análise e visualização de dados como temperatura, umidade do ar, umidade do solo e presença de chuva.
+A Embrace cria um hub digital único que integra todos os atores envolvidos na resposta a eventos extremos — ONGs, coletivos, voluntários e as próprias comunidades afetadas. Em vez de esforços dispersos, toda a comunicação, cadastro de demandas e oferta de recursos flui por uma só interface, garantindo que cada campanha ou chamado de socorro seja imediatamente visível a quem estiver disponível para ajudar, reduzindo lacunas e sobreposições.
 
-Através de sensores conectados a uma ESP32, os dados são enviados via protocolo MQTT para um painel visual em Node-RED, possibilitando tomada de decisões em tempo real.
+Este projeto representa o braço de monitoramento climático por IoT da solução Embrace. Ele é voltado à detecção antecipada de condições ambientais de risco em áreas urbanas — como chuvas intensas e alta umidade do solo — que podem agravar situações de vulnerabilidade.
+
+Por meio de sensores conectados a uma ESP32, os dados de temperatura, umidade do ar, umidade do solo e presença de chuva são coletados continuamente e enviados via protocolo MQTT para um painel visual no Node-RED. Essa estrutura permite a visualização em tempo real e auxilia na tomada de decisões rápidas e coordenadas pelos atores envolvidos nas respostas emergenciais.
 
 ⚡ **Circuito Montado:**
 
